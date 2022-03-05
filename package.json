@@ -1,0 +1,11 @@
+{
+  "name": "@coach-chuck/simple-terminal-response",
+  "version": "0.0.1",
+  "description": "Really easy way to request user input from the terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Coach Chuck",
+  "license": "ISC"
+}
