@@ -7,7 +7,7 @@ export const getSimpleTerminalResponse = (query: string) => {
         output: process.stdout,
     });
   
-    return new Promise<String>(resolve => line.question(query, ans => {
+    return new Promise<string>(resolve => line.question(query, ans => {
         line.close();
         resolve(ans);
     }))

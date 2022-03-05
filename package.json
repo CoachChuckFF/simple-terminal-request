@@ -22,13 +22,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheOnlyCaky/ts-simple-terminal-request.git"
+    "url": "git+https://github.com/TheOnlyCaky/simple-terminal-request.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/TheOnlyCaky/ts-simple-terminal-request/issues"
+    "url": "https://github.com/TheOnlyCaky/simple-terminal-request/issues"
   },
-  "homepage": "https://github.com/TheOnlyCaky/ts-simple-terminal-request#readme",
+  "homepage": "https://github.com/TheOnlyCaky/simple-terminal-request#readme",
   "devDependencies": {
     "@types/jest": "^27.4.1",
     "jest": "^27.5.1",
